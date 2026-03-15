@@ -1,4 +1,16 @@
 HelloWorld. C# tutorials. ASP.NET Core Web Application. Simple HTML Page.
+The web application consists of a start page with the name of the "index.html" file and the program file named "Program.cs". 
+A web page with the name of the file "index.html" consists of the following parts (elements):
+    1. Page title with "Start Page" value.
+    2. The title of the body of the first level page (total 6) with the value of "Hello, World". 
+A program with a "Program.cs" file name, which is converted to a Deputable File (assembly) in the DotNet Core medium, does the following:
+    1. Creates a working environment of the "Kerstel" web server.
+    2. Configures the parameters for accepting and processing requests for showing static and dynamic web pages.
+    3. Runs the web server and selects requests for showing static and dynamic web pages. 
+       The pages themselves can be formed either on the fly (the “servlet” code is executed: web request processor (GET,POST, HEAD, PUT), 
+       C# programming files to be converted into DotNet Core Compliant Environments or read from a file with an .html extension (client web page), 
+       .cshtml (server web page, may, in addition to the html markup language, contain code in the C# programming language).
+
 
 HelloWorld. Занятия по C#. ASP.NET Core Веб приложение. Простая HTML Страница.
 Веб приложение состоит из стартовой страницы с именем файла "index.html" и файла программы с именем "Program.cs".
